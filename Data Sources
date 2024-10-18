@@ -1,0 +1,6 @@
+The dataset is provided in shopify.xlsx and consists of four tables:
+
+Apps: Details of apps listed on the Shopify App Store.
+Apps_Categories: A join table linking apps to their categories.
+Categories: The different categories available for apps.
+Reviews: User reviews, including ratings, comments, and developer responses.
