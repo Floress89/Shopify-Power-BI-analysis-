@@ -1,4 +1,5 @@
 Shopify App Analysis
+
 This project analyzes the landscape of apps on the Shopify platform using data scraped from publicly available sources. The goal is to identify key factors contributing to the success of Shopify apps by visualizing various metrics and insights in Power BI. The dataset includes app details, categories, and user reviews, providing a comprehensive view of the Shopify App Store.
 
 Data Sources
